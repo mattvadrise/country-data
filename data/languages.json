@@ -607,6 +607,12 @@
   },
   {
     "alpha2": "",
+    "alpha3": "cmn",
+    "bibliographic": "",
+    "name": "Mandarin"
+  },
+  {
+    "alpha2": "",
     "alpha3": "cop",
     "bibliographic": "",
     "name": "Coptic"
@@ -3262,6 +3268,12 @@
     "alpha3": "ypk",
     "bibliographic": "",
     "name": "Yupik languages"
+  },
+  {
+    "alpha2": "",
+    "alpha3": "yue",
+    "bibliographic": "",
+    "name": "Cantonese"
   },
   {
     "alpha2": "",
